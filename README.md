@@ -1,2 +1,2 @@
 # ML_Problems
-This repository consists of various ML problems with Solutions
+This repository strictly and only consists of various ML problems along with their Solutions. You can also contribute to this repo.
